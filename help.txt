@@ -1,0 +1,44 @@
+    __                               __                 
+   /__    o  _| _  |  o __  _  _    |_  _  __  
+   \_||_| | (_|(/_ |  | | |(/__>    |  (_) | 
+
+
+    _  __         ___          __         
+|/ |_)/     ---    | |_  _    /__ _ __  _ 
+|\ |_)\__          | | |(/_   \_|(_||||(/_
+   
+
+º The game consists of 9 questions. The 1st question has a reward of 
+	Rs 5000 and so on till the 9th question which is of Rs 1,00,00,000.  
+  
+º There are 2 Checkpoints in the game which means even if you lose after 
+	clearing the Checkpoints, you will get the reward assigned to that
+	Checkpoint. 1st Checkpoint is at 3rd Ques(of Rs 25,000) and the 
+	2nd one is at the 6th Ques(of Rs. 25,00,000). 
+ 
+º Questions before Checkpoint 1 will have a time limit of 30 seconds.
+	After this Checkpoint, questions will have a time limit of 60 seconds
+	till you clear Checkpoint 2 after which there will be no time limit.  
+
+º 4 options will be displayed for each question (only 1 is correct).
+	To select the correct option out of A/B/C/D, PRESS '1'/'2'/'3'/'4'
+	respectively and PRESS '5' for the lifeline option.
+
+º Following lifelines can be used if you are stuck at any question: 
+       
+     a)  Infinite Time          : Press 'a' for accessing this lifeline
+     b)      50-50              : Press 'b' for accessing this lifeline 
+     c)  Flip The Question      : Press 'c' for accessing this lifeline 
+     d)  Audience Poll         : Press 'd' for accessing this lifeline
+
+º You can quit the game at any question by PRESSING '6' and you'll get 
+	'amount in-hand' as the reward.
+
+* For admin privileges, USERNAME: amitkbc and PASSWORD: cbse 
+
+ *****************************************************************************
+ NOTE : WHILE PLAYING THE GAME, DON'T PRESS 'ENTER' KEY AFTER FOR INPUT AS IT
+ WILL BE CONSIDERED AS A WRONG CHOICE.(Only PRESS the key you want to input) 
+ *****************************************************************************
+
+                              BEST OF LUCK!
