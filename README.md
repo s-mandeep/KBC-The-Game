@@ -8,7 +8,7 @@ The game accepts user-input through keyboard, and the questions as well as other
 3. Lifelines: User can take help from any of the four lifelines, which are quite helpful.
 4. Admin features, including adding/modifying questions, etc.
 
-#Instructions for use:
+# Instructions for use:
 Download as zip and place all the contents in the bin folder of your TurboC++ installation. 
 
 I hope you like the game! Feedback and improvements are welcome!
